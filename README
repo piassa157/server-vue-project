@@ -1,0 +1,13 @@
+# vue-project-api-graphql
+
+## Project setup
+```
+yarn install
+```
+### Lints and fixes files
+```
+yarn lint
+```
+### Run node server
+```
+yarn run node
