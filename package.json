@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/piassa157/server-vue-project#readme",
   "dependencies": {
-    "apollo-server": "^2.13.1",
+    "apollo-server": "^2.14.2",
     "graphql": "^15.0.0"
   }
 }
